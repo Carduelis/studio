@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{hSow:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("Wbzz"),p=t("Bl7J");n.default=function(){return o.a.createElement(p.a,null,o.a.createElement(c.Link,{to:"/page-2/"},"To page 2"))}}}]);
+//# sourceMappingURL=component---src-pages-subfolder-test-js-ee7a731d255e1bc86348.js.map
